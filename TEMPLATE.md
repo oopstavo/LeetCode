@@ -1,4 +1,4 @@
-### 001.  ([link](https://leetcode.com/problems/two-sum/))
+### 0001.  ([link](https://leetcode.com/problems/two-sum/))
 #### ![](https://img.shields.io/badge/Tag-Array-brightgreen.svg) ![](https://img.shields.io/badge/Difficult-Easy-brightgreen.svg)
 ### 1.1 Basic method
 **Idea**:  
